@@ -220,20 +220,6 @@ python 03_Load_To_SQL.py
 python 04_Data_Validation.py
 ```
 
----
-
-## 🎓 Academic Information
-
-Submitted By:
-Ankit Kumar
-
-Department of Information Technology
-
-Haldia Institute of Technology
-
-Submitted To:
-NeoStats
-
-June 2026
+--
 
 ---
